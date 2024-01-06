@@ -1,0 +1,10 @@
+.vscode
+.DS_Store
+CMakeFiles
+main.dSYM
+*.csv
+*.cmake
+CMakeCache.txt
+main
+Makefile
+
